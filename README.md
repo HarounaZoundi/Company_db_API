@@ -1,6 +1,6 @@
 # Company_database
 
-##Description
+## Description
 This is a complet functional API implented with Node.js (Express)<br>
 The all project is deployed on Heroku<br>
 This project implemented Sequelize.<br>
