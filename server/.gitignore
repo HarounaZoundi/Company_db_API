@@ -1,6 +1,7 @@
 #node modules folder 
 /node_modules
-
+npm-debug.log
+.DS_Store
 #environment variable folder 
 .env
 
