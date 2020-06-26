@@ -9,7 +9,7 @@ require('dotenv').config();
 
 const sequelize = new Sequelize("heroku_2ef692aeb03cd61", "b943aacbcbcf98","3e440962", {
     host:"us-cdbr-east-02.cleardb.com",
-    dialect:  "mysql"
+    dialect:  "mysql2"
   });
   
   module.exports = sequelize; 
