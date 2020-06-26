@@ -1,0 +1,9 @@
+#node modules folder 
+/node_modules
+
+#environment variable folder 
+.env
+
+
+
+
